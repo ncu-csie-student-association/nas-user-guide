@@ -3,7 +3,8 @@ name: 檔案編輯/刪除請求
 about: 此請求提供非持續性的檔案編輯或刪除，若您具備權責需要長期管理相關資源（如新聞部），請另外聯繫系代或副系代。
 title: "[Edit] 你的學號"
 labels: edit
-assignees: ''
+assignees:
+  - an920107
 
 ---
 
