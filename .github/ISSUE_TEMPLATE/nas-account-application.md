@@ -1,6 +1,6 @@
 ---
 name: NAS 帳號申請
-about: 申請成功後，帳號與預設密碼將以 Email 寄出。因涉及個人隱私，若不願提供私人信箱，請使用中央大學分配以 cc.ncu.edu.tw 為域名的信箱。
+about: 申請成功後，帳號與預設密碼將以 Email 寄出。因涉及個人隱私，若不願提供私人信箱，請使用中央大學分配以 cc.ncu.edu.tw 為域名的信箱。註冊並使用表示同意[使用規範](https://github.com/ncu-csie-student-association/nas-user-guide?tab=readme-ov-file#%E4%BD%BF%E7%94%A8%E8%A6%8F%E7%AF%84)。
 title: "[Apply] 你的學號"
 labels: apply
 assignees:
@@ -12,3 +12,5 @@ assignees:
 學號: 110502000
 姓名: 游帥哥
 Email: squid@squidspirit.com
+
+我同意遵循使用規範，且不上傳任何非法內容。
