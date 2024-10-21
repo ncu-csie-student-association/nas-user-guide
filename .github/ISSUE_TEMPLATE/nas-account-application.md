@@ -13,4 +13,4 @@ assignees:
 姓名: 游帥哥
 Email: squid@squidspirit.com
 
-我同意遵循使用規範，且不上傳任何非法內容。
+我同意遵循[使用規範](https://github.com/ncu-csie-student-association/nas-user-guide#%E4%BD%BF%E7%94%A8%E8%A6%8F%E7%AF%84)，且不上傳任何非法內容。
