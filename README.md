@@ -16,18 +16,22 @@
 
 1. 資工系系學會 NAS 存有「先人的照片」與「先人的智慧」，前者為系上各種活動的照片、紀錄；後者為學長姐們的*學習筆記*，請同學們切記**不要高調宣傳**。
 
-2. NAS 採實名認證，若要存取 NAS 的資料，請先透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 進行申請，申請內容模版與範例如下：
+2. 系學會提供的儲存空間禁止存放任何非法內容，所有上傳與變更皆有記錄，其法律責任由上傳者個人承擔。
+
+3. NAS 採實名認證，若要存取 NAS 的資料，您必須同意使用規範，並透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 進行申請，申請內容模版與範例如下：
 
    ```yaml
    系級: 資工四B
    學號: 110502000
    姓名: 游帥哥
    Email: squid@squidspirit.com
+
+   我同意遵循使用規範，且不上傳任何非法內容。
    ```
 
    申請成功後，帳號與預設密碼將以 Email 寄出。因涉及個人隱私，若不願提供私人信箱，請使用中央大學分配以 cc.ncu.edu.tw 為域名的信箱。
 
-3. 預設權限僅能讀取、新增，但不能刪除，如有編輯或刪除的需求，請同樣透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 提出申請，其內容模版與範例如下：
+4. 預設權限僅能讀取、新增，但不能刪除，如有編輯或刪除的需求，請同樣透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 提出申請，其內容模版與範例如下：
 
    ```yaml
    學號: 110502000
@@ -37,6 +41,10 @@
    ```
 
    此請求提供非持續性的檔案編輯或刪除，若您具備權責需要長期管理相關資源（如新聞部），請另外聯繫系代或副系代。
+
+5. 系學會擁有調整使用規範之權力，若有進行重大調整，將通知使用者，而變更之歷史紀錄會保留於 git commit 紀錄中。
+
+6. 註冊並使用 NAS 即表示您同意以上使用規範。
 
 ## 使用方法
 
