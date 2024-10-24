@@ -48,13 +48,14 @@
 
 ## 使用方法
 
-有兩種方法可以存取 NAS 的檔案，一種是透過網頁直接存取，一種是使用 SMB 協議存取，以下將會分別介紹這兩種方法各自的優點與進行方式
+有幾種方法可以存取 NAS 的檔案，一種是透過網頁直接存取、一種是使用 SMB 協議存取、一種是以 Synology Drive 的桌面或行動應用程式，以下將會分別介紹這兩種方法各自的優點與進行方式
 
 ### 網頁存取
 
 使用網頁存取具有以下優點：
 
 - 在任意設備進行登入（若為陌生設備請記得使用無痕模式）
+- 能取得內部分享連結（需登入帳號才能存取）
 - 能設定使用者資訊
 
 以下為使用網頁存取的詳細步驟：
@@ -85,6 +86,7 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
 - 如同使用本機掛載之磁碟
 - 更方便的操作檔案
+- 無需下載能直接以 Office 或其他本地程式開啟
 
 以下分別為在 Linux、macOS、Windows、iOS、Android 上使用 SMB 存取的步驟：
 
@@ -143,6 +145,18 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
 > 筆者無 iOS 設備
 
+建議使用 [Synology Drive 應用程式](#synology-drive-應用程式) 存取。
+
+建議
+
 #### Android
 
 Android 不同的手機廠商有不同的文件管理軟體，不一定能支援 SMB 連線，可尋找軟體內是否有「遠端連線」或「區域網路」類似的設定選項。若未支援，可至 Play 商店搜尋 SMB 下載支援的軟體。
+
+建議使用 [Synology Drive 應用程式](#synology-drive-應用程式) 存取。
+
+### Synology Drive 應用程式
+
+1. 電腦用戶可至 [Synology Drive 網站](https://www.synology.com/zh-tw/dsm/feature/drive) 依作業系統下載安裝檔；手機可至 Play 商店或 APP Store 搜尋**synology drive**，下載應用程式。
+
+2. 安裝完成後，以 `140.115.53.250/drive` 作為連線位置，並允許 HTTPS 加密，即可存取 NAS 內容。
