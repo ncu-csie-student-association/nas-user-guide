@@ -104,7 +104,7 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
    ![Gnome Enter Path](./image/screenshot-gnome-path.png)
 
-2. 輸入帳號密碼，工作群組維持為 `WORKGROUP` 不需更改。
+2. 輸入帳號密碼，工作群組維持為 `WORKGROUP` 不需更改。若未擁有帳號，請詳閱[使用規範](#使用規範)。
 
 3. `photo` 為先人的照片；`wisdom` 為先人的智慧。接下來操作與一般已掛載磁碟機相同。
 
@@ -145,7 +145,7 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
 > 筆者無 iOS 設備
 
-建議使用 [Synology Drive 應用程式](#synology-drive-應用程式) 存取。
+建議使用 [Synology Drive 應用程式](#synology-drive) 存取。
 
 建議
 
@@ -153,10 +153,12 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
 Android 不同的手機廠商有不同的文件管理軟體，不一定能支援 SMB 連線，可尋找軟體內是否有「遠端連線」或「區域網路」類似的設定選項。若未支援，可至 Play 商店搜尋 SMB 下載支援的軟體。
 
-建議使用 [Synology Drive 應用程式](#synology-drive-應用程式) 存取。
+建議使用 [Synology Drive 應用程式](#synology-drive) 存取。
 
-### Synology Drive 應用程式
+### Synology Drive
 
 1. 電腦用戶可至 [Synology Drive 網站](https://www.synology.com/zh-tw/dsm/feature/drive) 依作業系統下載安裝檔；手機可至 Play 商店或 APP Store 搜尋**synology drive**，下載應用程式。
 
-2. 安裝完成後，以 `140.115.53.250/drive` 作為連線位置，並允許 HTTPS 加密，即可存取 NAS 內容。
+2. 安裝完成後，以 `140.115.53.250/drive` 作為連線位置，並允許 HTTPS 加密。
+
+3. 依自己的帳號密碼進行登入。若未擁有帳號，請詳閱[使用規範](#使用規範)。
