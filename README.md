@@ -60,7 +60,7 @@
 
 以下為使用網頁存取的詳細步驟：
 
-1. 進入 [NAS 網頁](https://140.115.53.250/drive/) 並依自己的帳號密碼進行登入。若未擁有帳號，請詳閱[使用規範](#使用規範)。
+1. 進入 [NAS 網頁](https://nas.student.csie.ncu.edu.tw/) 並依自己的帳號密碼進行登入。若未擁有帳號，請詳閱[使用規範](#使用規範)。
 
    > 我們已禁用 http 不安全的連線方式。
 
@@ -77,6 +77,8 @@
    ![Work Station](./image/screenshot-file-station.png)
 
 3. 若要修改密碼或信箱等個人檔案，請登入 [NAS 管理頁面](https://140.115.53.250:5001)，並點擊右上角頭像調整。
+
+   > 註：管理員亦無權限查看使用者密碼。
 
 ### SMB 存取
 
@@ -159,6 +161,6 @@ Android 不同的手機廠商有不同的文件管理軟體，不一定能支援
 
 1. 電腦用戶可至 [Synology Drive 網站](https://www.synology.com/zh-tw/dsm/feature/drive) 依作業系統下載安裝檔；手機可至 Play 商店或 APP Store 搜尋**synology drive**，下載應用程式。
 
-2. 安裝完成後，以 `140.115.53.250/drive` 作為連線位置，並允許 HTTPS 加密。
+2. 安裝完成後，以 `nas.student.csie.ncu.edu.tw` 作為連線位置，並允許 HTTPS 加密。
 
 3. 依自己的帳號密碼進行登入。若未擁有帳號，請詳閱[使用規範](#使用規範)。
