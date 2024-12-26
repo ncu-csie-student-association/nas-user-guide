@@ -5,6 +5,8 @@ title: "[Apply] 你的學號"
 labels: apply
 assignees:
   - an920107
+  - FakeWood
+  - '111502003'
 
 ---
 
