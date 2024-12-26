@@ -101,7 +101,7 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 1. 在檔案管理軟體中按下快捷鍵 `Ctrl-L` 或點擊 UI 編輯路徑，輸入以下路徑。
 
    ```text
-   smb://140.115.53.250
+   smb://nas.student.csie.ncu.edu.tw
    ```
 
    ![Gnome Enter Path](./image/screenshot-gnome-path.png)
@@ -121,12 +121,12 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
    ```bash
    # 先人的照片
-   sudo mount.cifs //140.115.53.250/photo /mnt -o username=110502000
+   sudo mount.cifs //nas.student.csie.ncu.edu.tw/photo /mnt -o username=110502000
    ```
 
    ```bash
    # 先人的智慧
-   sudo mount.cifs //140.115.53.250/wisdom /mnt -o username=110502000
+   sudo mount.cifs //nas.student.csie.ncu.edu.tw/wisdom /mnt -o username=110502000
    ```
 
 3. 取消掛載
