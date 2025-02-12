@@ -90,6 +90,8 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 - 更方便的操作檔案
 - 無需下載能直接以 Office 或其他本地程式開啟
 
+惟須注意，僅在連接學校內網時能透過 SMB 存取
+
 以下分別為在 Linux、macOS、Windows、iOS、Android 上使用 SMB 存取的步驟：
 
 #### Linux
