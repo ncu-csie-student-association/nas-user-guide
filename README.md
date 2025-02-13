@@ -2,7 +2,9 @@
 
 ## 說明
 
-本文件旨在提供資工系系學會管理的 NAS [使用方式](#使用方法) 與 [規範](#使用規範)。若您發現文件中有缺漏或錯誤，麻煩您透過 [Pull Request](https://github.com/ncu-csie-student-association/nas-user-guide/pulls) 協助我們更正。
+本文件旨在提供資工系系學會管理的 NAS [使用規範](#使用規範) 與 [存取方式](#存取方式)。若您發現文件中有缺漏或錯誤，麻煩您透過 [Pull Request](https://github.com/ncu-csie-student-association/nas-user-guide/pulls) 協助我們更正。
+
+NAS 內另有詳細的 <u>使用說明</u> 請登入後仔細閱讀 README 文件
 
 ## 來由
 
@@ -42,7 +44,7 @@
 
 7. 註冊並使用 NAS 即表示您同意以上使用規範。
 
-## 使用方法
+## 存取方式
 
 有幾種方法可以存取 NAS 的檔案，一種是透過網頁直接存取、一種是使用 SMB 協議存取、一種是以 Synology Drive 的桌面或行動應用程式，以下將會分別介紹這兩種方法各自的優點與進行方式
 
