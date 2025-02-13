@@ -2,7 +2,7 @@
 
 ## 說明
 
-本文件旨在提供資工系系學會管理的 NAS [使用方式](#使用方法)與[規範](#使用規範)。若您發現文件中有缺漏或錯誤，麻煩您透過 [Pull Request](https://github.com/ncu-csie-student-association/nas-user-guide/pulls) 協助我們更正。
+本文件旨在提供資工系系學會管理的 NAS [使用方式](#使用方法) 與 [規範](#使用規範)。若您發現文件中有缺漏或錯誤，麻煩您透過 [Pull Request](https://github.com/ncu-csie-student-association/nas-user-guide/pulls) 協助我們更正。
 
 ## 來由
 
@@ -29,9 +29,9 @@
    我同意遵循使用規範，且不上傳任何非法內容。
    ```
 > [!Note]
-> 申請成功後，帳號與預設密碼將以 Email 寄出，實測發現經常被歸類為垃圾郵件，請多加留意。
+> 申請成功後，帳號 (預設為學號) 與預設密碼將以 Email 寄出，實測發現經常被歸類為垃圾郵件，請多加留意。
 >
-> 若忘記密碼，請透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 申請重置密碼，申請成功後，重置過後的密碼將以註冊時的 Email 寄出 (請多加留意垃圾郵件)，請使用新密碼登入後再將密碼改為常用密碼。
+> 若忘記密碼，請透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 申請重置密碼，申請成功後，重置過後的密碼將以註冊時的 Email 寄出 (請多加留意垃圾郵件)，請使用新密碼登入 [NAS 管理頁面](https://140.115.53.250:5001) 後再將密碼改為常用密碼。
 >
 > 因涉及個人隱私，若不願提供私人信箱，請使用中央大學分配以 cc.ncu.edu.tw 為域名的信箱。
 
@@ -56,25 +56,22 @@
 
 以下為使用網頁存取的詳細步驟：
 
-1. 進入 [NAS 網頁](https://nas.student.csie.ncu.edu.tw/) 並依自己的帳號密碼進行登入。若未擁有帳號，請詳閱[使用規範](#使用規範)。
+1. 進入 [NAS 網頁](https://nas.student.csie.ncu.edu.tw/) 並依自己的帳號 (預設為學號) 密碼進行登入。若未擁有帳號，請詳閱[使用規範](#使用規範)。
 
    > 我們已禁用 http 不安全的連線方式。
 
    成功登入後應看到以下畫面：
 
-   ![Overview](./image/screenshot-overview.png)
-
-2. 點擊左上角 **File Station** 可開啟檔案管理視窗。
-
-   ![Work Station Location](./image/screenshot-file-station-location.png)
-
+   ![Work Station](./image/screenshot-file-station.png)
+   
    其中 `photo` 為先人的照片，而 `wisdom` 為先人的智慧。接下來的檔案操作方式邏輯皆與電腦相差不大，交由各位自行探索。
 
-   ![Work Station](./image/screenshot-file-station.png)
 
 3. 若要修改密碼或信箱等個人檔案，請登入 [NAS 管理頁面](https://140.115.53.250:5001)，並點擊右上角頭像調整。
-
+   
    > 註：管理員亦無權限查看使用者密碼，建議使用常用密碼，避免遺忘。
+   
+   ![Overview](./image/screenshot-overview.png)
 
 ### SMB 存取
 
