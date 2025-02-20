@@ -33,7 +33,10 @@ NAS 內另有詳細的 <u>使用說明</u> 請登入後仔細閱讀 README 文�
 > [!Note]
 > 申請成功後，帳號 (預設為學號) 與預設密碼將以 Email 寄出，實測發現經常被歸類為垃圾郵件，請多加留意。
 >
-> 若忘記密碼，請透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 申請重置密碼，申請成功後，重置過後的密碼將以註冊時的 Email 寄出 (請多加留意垃圾郵件)，請使用新密碼登入 [NAS 管理頁面](https://140.115.53.250:5001) 後再將密碼改為常用密碼。
+> 獲得帳密後請登入 [NAS 管理頁面](https://140.115.53.250:5001)，並點擊右上角頭像重設密碼。  
+> （管理員亦無權限查看使用者密碼，建議使用與校務系統相同的密碼或其它常用密碼，避免遺忘。）
+> 
+> 若忘記密碼，需透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 申請重置密碼，申請成功後，重置過後的密碼將以註冊時的 Email 寄出 (請多加留意垃圾郵件)，請使用新密碼登入後再將密碼改為常用密碼。
 >
 > 因涉及個人隱私，若不願提供私人信箱，請使用中央大學分配以 cc.ncu.edu.tw 為域名的信箱。
 
