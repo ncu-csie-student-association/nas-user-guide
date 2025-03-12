@@ -1,12 +1,12 @@
 ---
 name: NAS 密碼重置
 about: 申請成功後，重置過後的密碼將以註冊時的 Email 寄出 (請多加留意垃圾郵件)，請使用新密碼登入，再將密碼改為常用密碼。
-title: "[Apply] 你的學號"
-labels: apply
+title: "[Reset] 你的學號"
+labels: reset
 assignees:
   - an920107
   - FakeWood
-  - '111502003'
+  - bai2223
 
 ---
 
