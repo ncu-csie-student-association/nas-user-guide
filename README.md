@@ -37,7 +37,9 @@ NAS 內另有詳細的 <u>使用說明</u> 請登入後仔細閱讀 README 文�
 > 若帳號申請 issue 已被 closed，卻仍未收到帳號註冊郵件，請聯絡我們。
 > 
 > 日後若需更改密碼，請登入 [NAS 管理頁面](https://140.115.53.250:5001)，並點擊右上角頭像重設密碼。  
-> 
+>
+> 若因嘗試太多次錯誤密碼導致IP被封，24小時後會自動解鎖
+>
 > 若忘記密碼，需透過 [GitHub Issue](https://github.com/ncu-csie-student-association/nas-user-guide/issues/new/choose) 申請重置密碼，申請成功後，重置過後的密碼將以註冊時的 Email 寄出 (請多加留意垃圾郵件)，請使用新密碼登入後再將密碼改為常用密碼。
 >
 > 因涉及個人隱私，若不願提供私人信箱，請使用中央大學分配以 cc.ncu.edu.tw 為域名的信箱。
