@@ -154,7 +154,7 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
 ![MacOS SMB Login](./image/screenshot-smb-macos-login.png)
 
-3. `photo` 為先人的照片；`wisdom` 為先人的智慧。根據需求選擇要掛載的磁碟區。
+3. `photo` 為先人的照片；`wisdom` 為先人的智慧。根據需求選擇要掛載的磁碟區，掛載完成後使用方式與一般外接硬碟相同。右鍵對應磁碟區後選擇退出便能取消掛載。
 
 ![MacOS SMB Mount](./image/screenshot-smb-macos-mount.png)
 
