@@ -94,10 +94,12 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
 雖然 SMB 很方便，但也有以下缺點
 
-- 僅在 **連接學校網路** 時能透過 SMB 存取
+- 僅在 **連接學校網路**（使用校內IP[^vpn-link]） 時能透過 SMB 存取
 - 無法開啟由 NAS 內的 Synology Office 創建的檔案
 
 以下分別為在 Linux、macOS、Windows、iOS、Android 上使用 SMB 存取的步驟：
+
+[^vpn-link]: 校外可以透過使用計中提供的SSLVPN來取得校內IP，細節請參考[NCUCCWiki](https://wiki.cc.ncu.edu.tw/wiki/SSLVPN)。
 
 #### Linux
 
@@ -144,7 +146,17 @@ SMB 全名 Server Message Block，為網路檔案分享系統，由微軟提出�
 
 #### macOS
 
-> 筆者無 macOS 設備
+1. 在 `Finder` 中上方工具列選擇 `前往>連結伺服器` 或是透過快捷鍵 `Command+K` 來打開連線伺服器的介面，在網址列輸入 `smb://nas.student.csie.ncu.edu.tw` 或是 `smb://140.115.53.250`後連線。
+
+![MacOS SMB Connect](./image/screenshot-smb-macos-connect.png)
+
+2. 選擇 `註冊使用者` 輸入帳號密碼後即可登入。
+
+![MacOS SMB Login](./image/screenshot-smb-macos-login.png)
+
+3. `photo` 為先人的照片；`wisdom` 為先人的智慧。根據需求選擇要掛載的磁碟區。
+
+![MacOS SMB Mount](./image/screenshot-smb-macos-mount.png)
 
 #### Windows
 
