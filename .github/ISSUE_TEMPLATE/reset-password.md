@@ -5,6 +5,8 @@ title: "[Reset] 你的學號"
 labels: reset
 assignees:
   - rex20041021
+  - samson0720
+  - tom1030507
 
 ---
 
