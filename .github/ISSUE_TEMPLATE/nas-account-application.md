@@ -5,6 +5,8 @@ title: "[Apply] 你的學號"
 labels: apply
 assignees:
   - rex20041021
+  - samson0720
+  - tom1030507
 
 ---
 
