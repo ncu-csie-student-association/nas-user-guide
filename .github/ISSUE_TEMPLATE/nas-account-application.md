@@ -4,9 +4,7 @@ about: 申請成功後，帳號與預設密碼將以 Email 寄出。因涉及個
 title: "[Apply] 你的學號"
 labels: apply
 assignees:
-  - rex20041021
-  - samson0720
-  - tom1030507
+  - melody-0918
 
 ---
 
