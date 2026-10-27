@@ -4,10 +4,7 @@ about: 申請成功後，重置過後的密碼將以註冊時的 Email 寄出 (�
 title: "[Reset] 你的學號"
 labels: reset
 assignees:
-  - rex20041021
-  - samson0720
-  - tom1030507
-
+  - melody-0918
 ---
 
 系級: 資工四B
